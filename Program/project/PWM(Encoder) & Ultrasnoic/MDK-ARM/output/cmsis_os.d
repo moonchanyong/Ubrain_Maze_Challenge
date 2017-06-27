@@ -1,0 +1,17 @@
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.c
+.\output\cmsis_os.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.h
+.\output\cmsis_os.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\cmsis_os.o: ..\..\..\Drivers\CMSIS\Device\ST\STM32F4xx\Include\core_cmFunc.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOS.h
+.\output\cmsis_os.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\projdefs.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\FreeRTOSConfig.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\portable.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\mpu_wrappers.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\task.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\list.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\timers.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\queue.h
+.\output\cmsis_os.o: ..\..\..\Middlewares\Third_Party\FreeRTOS\Source\include\semphr.h
